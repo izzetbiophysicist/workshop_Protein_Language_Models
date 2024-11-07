@@ -27,8 +27,6 @@ This repository contains a set of Colab notebooks designed for protein design an
 
 ## Getting Started
 
-
-- 
 Each notebook can be accessed directly via the provided Colab links. Simply click on the "Open in Colab" button next to each notebook title to get started.
 
 ## Requirements
