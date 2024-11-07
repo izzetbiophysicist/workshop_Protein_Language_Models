@@ -17,19 +17,17 @@ This repository contains a set of Colab notebooks designed for protein design an
 ### 3. PyRosetta Mutation Analysis
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aC5675E7d34G1ouRWTMxT8cCzgXaxNwq?usp=sharing)
 
-- **Description**: This notebook leverages PyRosetta to perform deep mutation scanning analysis, allowing users to predict the stability and functional impact of mutations..
+- **Description**: This notebook leverages PyRosetta to perform deep mutation scanning analysis, allowing users to predict the stability and functional impact of mutations.
 
 
 ### 4. ColabFold
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_colabfold_colab)
 
-- **Description**: This notebook leverages PyRosetta to perform deep mutation scanning analysis, allowing users to predict the stability and functional impact of mutations..
+- **Description**: This notebook uses ColabFold, an open-source implementation of AlphaFold, for protein structure prediction. ColabFold allows users to predict high-quality protein structures from sequence data, with the option to incorporate templates and advanced alignment techniques.
 
-
-https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb
 ## Getting Started
 
-- **Description**: This notebook uses ColabFold, an open-source implementation of AlphaFold, for protein structure prediction. ColabFold allows users to predict high-quality protein structures from sequence data, with the option to incorporate templates and advanced alignment techniques.
+
 - 
 Each notebook can be accessed directly via the provided Colab links. Simply click on the "Open in Colab" button next to each notebook title to get started.
 
