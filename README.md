@@ -1,5 +1,3 @@
-# workshop_Protein_Language_Models
-Our workshop's links, papers, scripts and notebooks
 # Protein Design and Mutation Analysis
 
 This repository contains a set of Colab notebooks designed for protein design and mutation analysis using ProtGPT2, ESM2, and PyRosetta. Each notebook includes code and instructions for using state-of-the-art models and tools to predict and analyze protein mutations.
@@ -14,7 +12,7 @@ This repository contains a set of Colab notebooks designed for protein design an
 ### 2. ESM2: Protein Language Model Analysis
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wIKc23eI8IBWNg4XPTzSsyXfQVTjm4ke#scrollTo=0N6BCZmJCHUP)
 
-- **Description**: In this notebook, we utilize ESM2, an advanced protein language model, to analyze and interpret protein sequences. ESM2 provides insights into the properties and potential functionality of protein sequences through embeddings and predictions.
+- **Description**: In this notebook, we utilize ESM2, a protein language model, generate new sequences using ESM2 infilling. ESM2 provides insights into the properties and potential functionality of protein sequences through embeddings and predictions.
 
 ### 3. PyRosetta Mutation Analysis
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aC5675E7d34G1ouRWTMxT8cCzgXaxNwq?usp=sharing)
