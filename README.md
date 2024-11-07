@@ -21,7 +21,7 @@ This repository contains a set of Colab notebooks designed for protein design an
 
 
 ### 4. ColabFold
-[![Open in Colab](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_colabfold_colab)
 
 - **Description**: This notebook leverages PyRosetta to perform deep mutation scanning analysis, allowing users to predict the stability and functional impact of mutations..
 
