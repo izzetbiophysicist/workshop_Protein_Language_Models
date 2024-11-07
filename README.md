@@ -4,12 +4,12 @@ This repository contains a set of Colab notebooks designed for protein design an
 
 ## Notebooks
 
-### 1. ProtGPT2: Protein Generation
+### 1. ProtGPT2: Protein Sequence Generation
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17XufxF-fxDOB4jUPwGxSzINXjkwXVvFE#scrollTo=YeKPu1HzsPgc)
 
 - **Description**: This notebook uses ProtGPT2, a generative language model specialized in protein sequences, to design novel proteins. It demonstrates the generation of plausible protein sequences based on a given input or prompt.
 
-### 2. ESM2: Protein Language Model Analysis
+### 2. ESM2: Protein Language Model infilling
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wIKc23eI8IBWNg4XPTzSsyXfQVTjm4ke#scrollTo=0N6BCZmJCHUP)
 
 - **Description**: In this notebook, we utilize ESM2, a protein language model, generate new sequences using ESM2 infilling. ESM2 provides insights into the properties and potential functionality of protein sequences through embeddings and predictions.
