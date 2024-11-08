@@ -21,7 +21,7 @@ This repository contains a set of Colab notebooks designed for protein design an
 
 
 ### 4. ColabFold
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_colabfold_colab)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
 
 - **Description**: This notebook uses ColabFold, an open-source implementation of AlphaFold, for protein structure prediction. ColabFold allows users to predict high-quality protein structures from sequence data, with the option to incorporate templates and advanced alignment techniques.
 
