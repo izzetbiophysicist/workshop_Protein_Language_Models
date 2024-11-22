@@ -5,7 +5,7 @@ This repository contains a set of Colab notebooks designed for protein design an
 ## Notebooks
 
 ### 1. ProtGPT2: Protein Sequence Generation
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17XufxF-fxDOB4jUPwGxSzINXjkwXVvFE#scrollTo=YeKPu1HzsPgc)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lu1dC0yRltKK_Wp-gF26oHcZSCiHaI8b?usp=sharing#scrollTo=fY3nG-UFm-u4)
 
 - **Description**: This notebook uses ProtGPT2, a generative language model specialized in protein sequences, to design novel proteins. It demonstrates the generation of plausible protein sequences based on a given input or prompt.
 
